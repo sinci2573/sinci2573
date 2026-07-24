@@ -69,3 +69,24 @@ I'm currently seeking full-time opportunities where I can contribute, learn from
 - Built an Email Intent Classifier to automate email categorization.
 - Refactored existing code, fixed bugs, and improved application reliability.
 - Worked with Git-based version control and participated in code reviews.
+
+## Featured Projects
+
+### Email Intent Classifier
+A modular machine learning application built to classify incoming emails into predefined intent categories. Developed during my Software Engineering internship at Sutherland with a focus on maintainable architecture, backend logic, and automated evaluation.
+
+**Tech:** Python • Machine Learning • Streamlit • Git
+
+---
+
+### Financial Record Reconciliation Engine
+Automated reconciliation system that validates and compares CSV and XLSB financial records, reducing manual effort through deterministic matching and robust validation logic.
+
+**Tech:** Python • Pandas • File Processing • Automation
+
+---
+
+### Software Procurement Analytics
+Developed automation and analytics solutions for enterprise procurement workflows during my internship at Dell Technologies, working with Python, SQL, PostgreSQL, and Agile development practices.
+
+**Tech:** Python • SQL • PostgreSQL • Data Engineering
