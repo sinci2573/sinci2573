@@ -91,13 +91,7 @@ Developed automation and analytics solutions for enterprise procurement workflow
 
 **Tech:** Python • SQL • PostgreSQL • Data Engineering
 
-## GitHub Statistics
+## Connect with Me
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sinci2573&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=sinci2573&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinci2573&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+- **LinkedIn:** https://linkedin.com/in/sinchana-suresh-ganiga-b8039328b
+- **Email:** sinci2573@gmail.com
