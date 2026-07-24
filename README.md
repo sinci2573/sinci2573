@@ -51,3 +51,21 @@ I'm currently seeking full-time opportunities where I can contribute, learn from
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+
+## Experience
+
+### Dell Technologies | Data & Software Engineering Intern
+**February 2026 – May 2026**
+
+- Developed Python-based automation and analytics solutions for enterprise procurement workflows.
+- Wrote optimized SQL queries and worked with PostgreSQL to improve data accessibility.
+- Collaborated using GitLab, Jira, and Confluence in an Agile development environment.
+- Debugged system and connectivity issues across enterprise applications.
+
+### Sutherland | Software Engineering Intern
+**December 2025 – January 2026**
+
+- Contributed to backend development for the Contract Lifecycle Management (CLM) platform.
+- Built an Email Intent Classifier to automate email categorization.
+- Refactored existing code, fixed bugs, and improved application reliability.
+- Worked with Git-based version control and participated in code reviews.
