@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on<br>A Java snippet library, data dashboards, and quirky side projects like Builds and Brews.<br><br>🤝 I’m looking to collaborate on<br>DSA challenges, beginner-friendly APIs, and fun web tools (think LinkGuardians or better dashboards).<br><br>🤔 I’m looking for help with<br>Making my Python and Java projects production-ready, and improving deployment workflows.<br><br>🌱 I’m currently learning<br>Deep-diving into Spring Boot, API development, and smarter data visualizations.<br><br>💬 Ask me about<br>Anything from debugging weird Java exceptions to visualizing your weekend coffee spending.<br><br>⚡ Fun fact<br>Built my first website and forgot to add a logout button. Security through invisibility? 
 
